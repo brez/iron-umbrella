@@ -1,0 +1,30 @@
+body {
+  margin-top: 10px;
+  font-family: courier;
+}
+.bank {
+  float: left;
+  margin: 30px;
+}
+.bass-pad {
+  background: #f00;
+}
+.pad {
+  color: #fff;
+  width: 80px;
+  height: 80px;
+  float: left;
+  margin: 8px;
+  padding: 2px;
+}
+.bass-pad-on {
+  background: #0f0;
+}
+#player-container {
+  margin: 0 auto;
+  padding-top: 130px;
+  width: 725px;
+}
+#canvas {
+  border: 2px dotted #ff0;
+}
