@@ -1,7 +1,3 @@
-## APOPHENIA
-
-Apophenia /æpɵˈfiːniə/ is the experience of seeing meaningful patterns or connections in random or meaningless data.
-
 ### THE IDEA
 
 Provides a diagonal (?) grid, etc for fft spectrum / color analysis which allows the music itself to create patterns.
